@@ -1,0 +1,1 @@
+﻿<%@ServiceHost language="C#" Debug="true" Service="Leedom.TextmaxxPro.Api.MessageApi" Factory="System.ServiceModel.Activation.WebServiceHostFactory"%>
