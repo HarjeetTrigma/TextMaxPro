@@ -1,0 +1,1 @@
+Server=tcp:localhost,1500;Database=Textmaxx;UserID=textmaxx;Password=adQ5T3k5sHb9fx7Y;Connect Timeout=13;Min Pool Size=13;Max Pool Size=199 
